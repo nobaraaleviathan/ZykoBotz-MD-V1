@@ -55,12 +55,12 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
+global.nomorbot = '40737910350'
+global.nomorown = '393516093315'
 global.nomorown1 = '6281386943282'
 global.nomorown2 = '6281386943282'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'AHMED ABDELAZIZ'
 
 /*============== STAFF ==============*/
 /*global.owner = [
